@@ -1,4 +1,4 @@
-<img src="https://github.com/secbras/xsstorm/blob/main/xsstorm.png?raw=true" alt="XSStorm" width="300">
+<img src="https://github.com/secbras/xsstorm/blob/main/xsstorm.jpg?raw=true" alt="XSStorm" width="300">
 
 # ⚡ XSStorm – Advanced XSS Scanner
 
